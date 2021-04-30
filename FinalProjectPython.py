@@ -1,5 +1,4 @@
 import pandas as pd
-import geopy as geopy
 import matplotlib.pyplot as plt
 import numpy as np
 import geopandas as gpd
